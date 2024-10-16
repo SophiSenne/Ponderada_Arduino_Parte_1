@@ -10,6 +10,12 @@ Este repositório contém o código e a demonstração prática da realização 
 <img src="screenshot_ide_blink.png" width="50%">
 </div>
 
+- **Imagem**: [foto_blink.jpg](foto_blink.jpg) - Imagem que mostra o Arduino conectado ao computador e com o LED aceso.
+
+<div align="center">
+<img src="foto_blink.jpg" width="50%">
+</div>
+
 - **Vídeo**: [video_blink.mp4](video_blink.mp4) - Vídeo evidenciando o funcionamento do projeto.
 - **Código**: [blink.ino](blink.ino) - Código responsável por acender e apagar o LED interno do Arduino em intervalos de tempo programados.
 
