@@ -7,7 +7,7 @@ Este repositório contém o código e a demonstração prática da realização 
 - ***Screenshots da IDE***: [screenshoot_blink_ide.png](screenshot_ide_blink.png) - Imagem do código Arduino rodando no meu ambiente de desenvolvimento.
 
 <div align="center">
-<img src="screenshot_ide_blink.png" width="100%">
+<img src="screenshot_ide_blink.png" width="50%">
 </div>
 
 - **Vídeo**: [video_blink.mp4](video_blink.mp4) - Vídeo evidenciando o funcionamento do projeto.
