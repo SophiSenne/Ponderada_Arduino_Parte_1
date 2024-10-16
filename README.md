@@ -5,5 +5,25 @@ Este repositório contém o código e a demonstração prática da realização 
 
 ### Conteúdo do Repositório:
 - ***Screenshots da IDE***: [screenshoot_blink_ide.png](screenshot_ide_blink.png) - Imagem do código Arduino rodando no meu ambiente de desenvolvimento.
+
+<div align="center">
+<img src="screenshot_ide_blink.png" width="100%">
+</div>
+
 - **Vídeo**: [video_blink.mp4](video_blink.mp4) - Vídeo evidenciando o funcionamento do projeto.
 - **Código**: [blink.ino](blink.ino) - Código responsável por acender e apagar o LED interno do Arduino em intervalos de tempo programados.
+
+```C++
+void setup() {
+  pinMode(LED_BUILTIN, OUTPUT);
+
+}
+
+void loop() {
+  digitalWrite(LED_BUILTIN, HIGH);
+  delay(1000);
+  digitalWrite(LED_BUILTIN, LOW);
+  delay(1000);
+
+}
+```
